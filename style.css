@@ -181,12 +181,7 @@ flex-wrap:wrap;/*allows icons to move to the next line*/
     color: var(--primary-color);
     transform: translateY(-2px);
 }
-.email{
-    background-color: #ea4335;
-}
-.email:hover{
-    background-color: white;
-}
+
 .whatsapp{
     background-color: #25D366;
 }
@@ -210,10 +205,4 @@ flex-wrap:wrap;/*allows icons to move to the next line*/
 }
 .linkedin:hover{
     background-color: #005582;
-}
-.fa-x-twitter{
-    background-color: #000000;
-}
-.fa-x-twitter:hover{
-    background-color: #1DA1F2;
 }
